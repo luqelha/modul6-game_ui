@@ -5,7 +5,6 @@ Data diambil dari **FreeToGame API** dan ditampilkan dalam daftar menggunakan `L
 
 Tujuan utamanya adalah memahami penggunaan **ListView**, **Container**, **Row & Column**, dan **HTTP request** untuk mengambil data dari API.
 
----
 
 ## 📌 Tentang Proyek
 
@@ -16,7 +15,6 @@ Tujuan utamanya adalah memahami penggunaan **ListView**, **Container**, **Row & 
   - Menampilkan data secara dinamis menggunakan `ListView.builder()`.  
   - Membuat UI modern dengan `Container`, `BoxShadow`, dan `BorderRadius`.  
 
----
 
 ## 🔲 Konsep Utama
 
